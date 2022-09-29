@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-obdapp-dev-162534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::244172521777:role/amplify-obdapp-dev-162534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::244172521777:role/amplify-obdapp-dev-162534-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-obdapp-dev-162534-deployment",
+      "UnauthRoleName": "amplify-obdapp-dev-162534-unauthRole",
+      "StackName": "amplify-obdapp-dev-162534",
+      "StackId": "arn:aws:cloudformation:sa-east-1:244172521777:stack/amplify-obdapp-dev-162534/1fabb030-2c98-11ed-b520-069178b27e22",
+      "AmplifyAppId": "d3cghgb9zbiqde"
+    },
+    "categories": {
+      "auth": {
+        "obdappa70bac51": {},
+        "true": {}
+      }
+    }
+  }
+}
